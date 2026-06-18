@@ -1,29 +1,6 @@
-<p align="center">
-  <img src="./readme_assets/images/logo.png" alt="Presenton" />
-</p>
-
-<p align="center">
-  <a href="https://presenton.ai/download"><strong>Quickstart</strong></a> &middot;
-  <a href="https://docs.presenton.ai/"><strong>Docs</strong></a> &middot;
-  <a href="https://www.youtube.com/@presentonai"><strong>Youtube</strong></a> &middot;
-  <a href="https://discord.gg/9ZsKKxudNE"><strong>Discord</strong></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/presenton/presenton/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=flat" alt="Apache2.0" /></a>
-  <a href="https://github.com/presenton/presenton"><img src="https://img.shields.io/github/stars/presenton/presenton?style=flat" alt="Stars" /></a>
-  <a href="https://presenton.ai/"><img src="https://img.shields.io/badge/Platform-Docker%20%7C%20Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat" alt="Platform" /></a>
-</p>
-
-# Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)
-
-Discover what Presenton can do from AI-powered presentation generation to editing, exporting, and flexible model providers.
-
-[▶ Watch Presenton in Action](https://github.com/user-attachments/assets/93e541dc-8487-4dcf-a9a0-95ad5ca94453)
 
 ---
-
-## 🇰🇷 이 포크의 추가 기능 (indesign-presenton)
+## 🇰🇷 추가 기능 (indesign-presenton)
 
 이 저장소는 [Presenton](https://github.com/presenton/presenton)을 기반으로, **InDesign 원본 데이터로부터 슬라이드 아웃라인을 만들어 내는 워크플로우**와 **한국어 UI**를 추가한 포크입니다. 그 외 기능·실행 방법은 아래 원본 문서를 그대로 따릅니다.
 
